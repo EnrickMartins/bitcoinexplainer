@@ -26,5 +26,3 @@ The calculations are performed by your browser, no data is sent to a server.
 
 Willem Hengeveld <itsme@xs4all.nl>
 
-
-
